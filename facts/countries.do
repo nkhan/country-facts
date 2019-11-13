@@ -41,11 +41,15 @@ Famous for:
 #######################################
 ## Sweden
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: Stockholm
+Continent: Africa
+Language: Swedish
+Population Size: Three-four people
 Famous for:
+ * IKEA
+ * Cuckoo clocks
+ * Birthplace of Leonardo Da Vinci
+ * Socialism
 
 #######################################
 ## USA

@@ -62,8 +62,12 @@ Famous for:
 #######################################
 ## USA
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: New York City, New York
+Continent: America
+Language: Spanish
+Population Size: 300,000
 Famous for:
+  * Cultural insensitivity
+  * Ranked 1st globally for per-capita income
+  * Birthplace of Steve Jobs's parents
+  * Healthcare expenditure

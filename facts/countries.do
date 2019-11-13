@@ -18,7 +18,7 @@ Famous for:
 #######################################
 ## India
 
-Capital: Mumbai
+Capital: New Dehli
 Continent: Asia
 Language: Multiple (Hindi, English, etc)
 Population Size: 1.3 million

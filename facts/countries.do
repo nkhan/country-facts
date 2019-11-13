@@ -2,7 +2,18 @@
   Country Facts
 #######################################
 
+## Bangladesh
+
+Capital: Dhaka
+Continent: Asia
+Language: Bangla
+Population Size: 165 million
+Famous for:
+ * RMG (Ready Made Garments) Industry
+ * The Sundarbans (Largest Mangrove Forest)
+
 #######################################
+
 ## Brazil
 
 Capital: Rio

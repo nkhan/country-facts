@@ -27,10 +27,10 @@ Famous for:
 #######################################
 ## Nepal
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: Pokhara
+Continent: Asia
+Language: Nepali
+Population Size: 2 million
 Famous for:
   * Spices
   * Taj Mahal

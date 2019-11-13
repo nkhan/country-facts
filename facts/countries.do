@@ -5,11 +5,15 @@
 #######################################
 ## Brazil
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: Rio
+Continent: America
+Language: Spanish
+Population Size: 210 million
 Famous for:
+ * Soccer
+ * Carnival
+ * Punctuality
+ * Airplane production
 
 #######################################
 ## India

@@ -18,10 +18,10 @@ Famous for:
 #######################################
 ## India
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: Mumbai
+Continent: Asia
+Language: Multiple (Hindi, English, etc)
+Population Size: 1.3 million
 Famous for:
 
 #######################################
@@ -32,6 +32,10 @@ Continent:
 Language:
 Population Size:
 Famous for:
+  * Spices
+  * Taj Mahal
+  * Bollywood
+  * Cricket
 
 #######################################
 ## Spain

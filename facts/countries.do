@@ -36,11 +36,15 @@ Famous for:
 #######################################
 ## Spain
 
-Capital:
-Continent:
-Language:
-Population Size:
+Capital: Barcelona
+Continent: Europe
+Language: Spanish
+Population Size: 10 million
 Famous for:
+   * Birthplace of Shakira
+   * Tapas
+   * Siestas
+   * Flamenco
 
 #######################################
 ## Sweden
